@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.81bf7dc6.chunk.js",
-    "main.js.map": "/static/js/main.81bf7dc6.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.95badc45055358bcf460f18909b43e12.js": "/precache-manifest.95badc45055358bcf460f18909b43e12.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/viscosho/static/css/main.2cce8147.chunk.css",
+    "main.js": "/viscosho/static/js/main.fb291aef.chunk.js",
+    "main.js.map": "/viscosho/static/js/main.fb291aef.chunk.js.map",
+    "runtime~main.js": "/viscosho/static/js/runtime~main.f61471a4.js",
+    "runtime~main.js.map": "/viscosho/static/js/runtime~main.f61471a4.js.map",
+    "static/js/2.b41502e9.chunk.js": "/viscosho/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/viscosho/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/viscosho/index.html",
+    "precache-manifest.a56a8d4780ffac38cd6bcb44ef61b9f1.js": "/viscosho/precache-manifest.a56a8d4780ffac38cd6bcb44ef61b9f1.js",
+    "service-worker.js": "/viscosho/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/viscosho/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/viscosho/static/media/logo.5d5d9eef.svg"
   }
 }
