@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e7f0c995cfed5d028413f722c891b7e",
+    "revision": "9821e8530f2a64e1316b236904a91365",
     "url": "/viscosho/index.html"
   },
   {
-    "revision": "7b9c1af78c9bb3506ab0",
-    "url": "/viscosho/static/css/main.2cce8147.chunk.css"
+    "revision": "b065542051e97f0cc986",
+    "url": "/viscosho/static/css/main.9408af02.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/viscosho/static/js/2.b41502e9.chunk.js"
+    "revision": "5e2d68b461add628e15e",
+    "url": "/viscosho/static/js/2.f55c2cca.chunk.js"
   },
   {
-    "revision": "7b9c1af78c9bb3506ab0",
-    "url": "/viscosho/static/js/main.fb291aef.chunk.js"
+    "revision": "b065542051e97f0cc986",
+    "url": "/viscosho/static/js/main.051a8a68.chunk.js"
   },
   {
     "revision": "06529008a4f65dd278a9",
