@@ -2,7 +2,7 @@
   "name": "viscosho",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://viscosho.github.io/",
+  "homepage": "https://viscosho.github.io/viscosho",
   "dependencies": {
     "babel-jest": "^24.8.0",
     "gh-pages": "^2.0.1",
