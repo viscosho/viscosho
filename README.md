@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  Hi there 👋, Virginia Garcia!
+  Hi there 👋, I am Virginia Garcia!
   <br>
 </h1>
 <h3 align="center">
